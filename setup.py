@@ -14,7 +14,8 @@ setup(
     "numpy",
     "scipy",
     "plotly",
-    "astropy"
+    "astropy",
+    "setuptools",
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
